@@ -1,0 +1,27 @@
+# Dependencies
+web/node_modules/
+node_modules/
+
+# Build outputs
+web/dist/
+web/src-tauri/target/
+
+# Go
+go-build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Database / logs
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

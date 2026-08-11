@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=AburMD
+Comment=Lightweight Markdown reader and editor
+Exec=aburmd %F
+Icon=aburmd
+Terminal=false
+Type=Application
+Categories=Office;TextEditor;Utility;
+MimeType=text/markdown;text/x-markdown;

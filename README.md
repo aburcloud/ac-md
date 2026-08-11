@@ -1,6 +1,6 @@
 # AburMD
 
-**AburMD** is a lightweight, fast, native-feeling Markdown document reader and editor for Windows and Linux, published by **AburMD Software**.
+**AburMD** is a lightweight, fast, native-feeling Markdown document reader and editor for Windows and Linux, published by **AburCloud**.
 
 It allows you to double-click any `.md` or `.markdown` file and read it comfortably without launching heavy IDEs, browsers, or Electron applications.
 
